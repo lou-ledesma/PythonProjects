@@ -6,6 +6,4 @@
   - Tic Tac Toe
   - Black Jack
   - Pokemon Web Scrape (Wikipedia) + Word Cloud Creation
-  
-3.) My knowledge and understanding of python originates from the "Complete Python Bootcamp: From Zero to Hero in Python" in Udemy taught by Jose Portilla
-  - Link: https://www.udemy.com/course/complete-python-bootcamp/
+  - Spotify EDA and Decision Tree Classifier Project (Guided)
