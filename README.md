@@ -8,3 +8,4 @@
   - Pokemon Web Scrape (Wikipedia) + Word Cloud Creation
   - Spotify EDA and Decision Tree Classifier Project (Guided)
   - Academic Project - Dictionaries and Sets
+  - Academic Project - Spotify API Bad Bunny Analysis
