@@ -9,3 +9,4 @@
   - Spotify EDA and Decision Tree Classifier Project (Guided)
   - Academic Project - Dictionaries and Sets
   - Academic Project - Spotify API Artist Popularity Analysis: Bad Bunny
+  - YouTube Video (MP4)/MP3 Downloader
