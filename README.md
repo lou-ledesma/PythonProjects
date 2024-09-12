@@ -10,7 +10,7 @@
   - Academic Project - Dictionaries and Sets
   - Academic Project - Spotify API Artist Popularity Analysis: Bad Bunny
   - YouTube Video (MP4)/MP3 Downloader
-  - NBA Player Rebouding Predictive Model
+  - NBA Player Rebouding Predictive Model (3 Scripts)
     - (1) - Main_NBABettingModel 2024_02_03.ipynb
       - (1)- ML Model for predicting player rebounds. (Multivariate Linear Regression + Monte Carlo Simulation)
     - (2) - Execution_Script_BulkUpload_2024_02_03.ipynb
