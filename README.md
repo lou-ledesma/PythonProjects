@@ -18,5 +18,5 @@
       - (2)- Execution Script to re-run the script multiple times
     - (3) - Player URL Mapping_2023_12_15.ipynb 
       - (3)- Web scraping basketball reference player data to effectively map player names for further ad-hoc analysis
-  - LinkedIn Applied Job Scrapper
+  - LinkedIn Applied Job Scraper
     - Sample Output File: HiddenUsername LinkedIn Job Applications.csv
