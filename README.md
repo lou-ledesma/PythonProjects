@@ -10,10 +10,13 @@
   - Academic Project - Dictionaries and Sets
   - Academic Project - Spotify API Artist Popularity Analysis: Bad Bunny
   - YouTube Video (MP4)/MP3 Downloader
+    - Supporting/Optional File - Bulk Download.xlsx 
   - NBA Player Rebouding Predictive Model (3 Scripts)
     - (1) - Main_NBABettingModel 2024_02_03.ipynb
-      - (1)- ML Model for predicting player rebounds. (Multivariate Linear Regression + Monte Carlo Simulation)
+      - (1)- ML Model for predicting player rebounds (Multivariate Linear Regression + Monte Carlo Simulation)
     - (2) - Execution_Script_BulkUpload_2024_02_03.ipynb
       - (2)- Execution Script to re-run the script multiple times
     - (3) - Player URL Mapping_2023_12_15.ipynb 
       - (3)- Web scraping basketball reference player data to effectively map player names for further ad-hoc analysis
+  - LinkedIn Applied Job Scrapper
+    - Sample Output File: HiddenUsername LinkedIn Job Applications.csv
